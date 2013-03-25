@@ -5,10 +5,7 @@ gem 'rails', '3.2.8'
 gem 'thin'
 gem 'asset_sync'
 gem 'bloggy'
-
-gem "therubyracer"
-gem "less-rails"
-gem "twitter-bootstrap-rails"
+gem 'rdiscount'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
