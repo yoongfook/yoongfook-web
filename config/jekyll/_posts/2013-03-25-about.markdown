@@ -1,0 +1,18 @@
+---
+layout: page
+title: About Yoongfook
+---
+I am am an experienced [product manager](#prod), [ruby on rails programmer](#dev), [front-end designer](#design) and [startup founder](#startup)
+
+####Product Manager
+I am currently a [Lean Product Manager](http://pollenizer.com/what-is-a-lean-product-manager) at [Pollenizer](http://pollenizer.com), one of the top startup incubator in Australia. This role has a good overlap between customer development and product management. We use [lean startup](http://theleanstartup.com/) principles - running experiments, measuring results, hacking growth, [agile dev](http://en.wikipedia.org/wiki/Agile_software_development) and quick iterations.
+
+####Ruby on Rails Programmer
+I have been writing apps with Ruby on Rails since 2011 and started doing commercial freelancing work in 2012. The most recent project is [Singapore Tender](http://singaporetender.com) where I implemented a role-based authentication system (Devise, CanCan),  account activation system, nested model forms, image uploading (CarrierWave), daily email digests, paypal integration (ActiveMerchant),  object-based searching (Ransack), and email campaign integration (Gibbon).
+
+####Front-end Designer
+I use the latest in CSS technology ([SASS](http://sass-lang.com) - mixins, variables, [Twitter Bootstrap](http://twitter.github.com/bootstrap), [Zurb Foundation](http://foundation.zurb.com)), and popular Javascript frameworks ([jQuery](http://jquery.com), [Angular JS](http://angularjs.org)) to create modern-looking websites at a fraction of the time needed. As the saying goes- don't re-invent the wheel.
+
+####Startup Founder
+I started 3 businesses in Singapore before moving to Sydney. Tagloop - An online store for pre-programmed NFC stickers, Gspot - A platform for launching referral campaigns on Facebook, and [Hastify](http://hastify.com) - An online food delivery website. At Hastify, we managed to raise $50,000 from the Singaporean Government, and subsequently an angel round from one of the founders of [Hungrygowhere](http://hungrygowhere.com), the Yelp of Singapore
+
