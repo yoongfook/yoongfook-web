@@ -4,7 +4,7 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2013-03-25T23:18:13+11:00</updated>
+ <updated>2013-03-26T23:59:32+11:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
@@ -12,11 +12,113 @@
 
  
  <entry>
-   <title>Finally got Jekyll running</title>
-   <link href="YOUR_URL/second-post.html"/>
-   <updated>2013-03-25T00:00:00+11:00</updated>
-   <id>BLOG_URL/second-post</id>
-   <content type="html">&lt;p&gt;After an intense code sprint, I finally got Jekyll running as my blog engine. From this point on, its Markdown for blogposts and git commit to publish :)&lt;/p&gt;
+   <title>My List of Useful Ruby Gems</title>
+   <link href="YOUR_URL/my-list-of-useful-ruby-gems.html"/>
+   <updated>2013-03-26T00:00:00+11:00</updated>
+   <id>BLOG_URL/my-list-of-useful-ruby-gems</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;Useful list of Ruby gems that I frequently use in web development projects.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;Front End Frameworks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/zurb/foundation&quot;&gt;Zurb Foundation&lt;/a&gt; - Uses SASS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/seyhunak/twitter-bootstrap-rails&quot;&gt;Twitter Bootstrap&lt;/a&gt; - Uses LESS&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Markup/Styling&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/haml/haml&quot;&gt;HAML&lt;/a&gt; - Prettify your HTML. Looks much cleaner than erb.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rails/sass-rails&quot;&gt;SASS&lt;/a&gt; - Avoid spaghetti CSS. Uses SASS today.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/bokmann/font-awesome-rails&quot;&gt;Font-Awesome&lt;/a&gt; - Icon-fonts&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Forms&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/plataformatec/simple_form&quot;&gt;Simple Form&lt;/a&gt; - Form generator: labels, error states, dropdowns, checkboxes, etc&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Error Reporting&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/charliesome/better_errors&quot;&gt;Better Errors&lt;/a&gt; - Meaningful error screens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dejan/rails_panel&quot;&gt;Rails Panel&lt;/a&gt; - Show Rails app requests in Chrome Dev Tool&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Authentication&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/plataformatec/devise&quot;&gt;Devise&lt;/a&gt; - THE authentication system for Rails&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Authorization&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/intridea/omniauth&quot;&gt;Omniauth&lt;/a&gt; - Login with Facebook, Twitter, g+ etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ryanb/cancan&quot;&gt;CanCan&lt;/a&gt; - Role-based Authorization (RBA) system that restricts what resources a given user is allowed to access&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;File/Image Upload&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jnicklas/carrierwave&quot;&gt;CarrierWave&lt;/a&gt; - Upload images/files from Rails application&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Asset Pipeline&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/fog/fog&quot;&gt;Fog&lt;/a&gt; - Upload images to cloud&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rumblelabs/asset_sync&quot;&gt;Asset Sync&lt;/a&gt; - Sync and serve assets from S3, Cloudfront etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Pagination&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/amatsuda/kaminari&quot;&gt;Kaminari&lt;/a&gt; - Easily create pagination when entries from db queries get too long.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Background Tasks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/collectiveidea/delayed_job&quot;&gt;Delayed Job&lt;/a&gt; - Execute longer tasks like emailing a long list of entries in the background.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Admin Panels&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gregbell/active_admin&quot;&gt;Active Admin&lt;/a&gt; - Instantly create an admin panel for your rails app.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sferik/rails_admin&quot;&gt;Rails Admin&lt;/a&gt; - Another great admin panel for managing your data&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Content Management System&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/refinery/refinerycms&quot;&gt;RefineryCMS&lt;/a&gt; - Popular Rails based CMS&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll is up and running</title>
+   <link href="YOUR_URL/jekyll-is-up-and-running.html"/>
+   <updated>2013-03-26T00:00:00+11:00</updated>
+   <id>BLOG_URL/jekyll-is-up-and-running</id>
+   <content type="html">&lt;p&gt;Finally got Jekyll up and running tonight. What is Jekyll you ask? Well, according to its &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github page&lt;/a&gt;, Jekyll is a simple, blog aware, static site generator. Thats what it does! It takes all the blogposts you write in markdown and generates a static site from them. You can drop the generated files into any web server and you will be able to serve those pages to your reader.&lt;/p&gt;
+
+&lt;p&gt;Jekyll is hacker-style blogging. Write your posts in a text editor in markdown, run &lt;code&gt;rake generate&lt;/code&gt;, commit your files, and push it to your site's servers. That's how you publish a Jekyll-powered blogpost. The posts are served in .html too, which makes the page load extremely fast!&lt;/p&gt;
 </content>
  </entry>
  
@@ -34,7 +136,7 @@
    <link href="YOUR_URL/about.html"/>
    <updated>2013-03-25T00:00:00+11:00</updated>
    <id>BLOG_URL/about</id>
-   <content type="html">&lt;p&gt;I am am an experienced &lt;a href=&quot;#prod&quot;&gt;product manager&lt;/a&gt;, &lt;a href=&quot;#dev&quot;&gt;ruby on rails programmer&lt;/a&gt;, &lt;a href=&quot;#design&quot;&gt;front-end designer&lt;/a&gt; and &lt;a href=&quot;#startup&quot;&gt;startup founder&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;I am am an experienced &lt;a href=&quot;#prod&quot;&gt;product manager&lt;/a&gt;, &lt;a href=&quot;#dev&quot;&gt;ruby on rails programmer&lt;/a&gt;, &lt;a href=&quot;#design&quot;&gt;front-end designer&lt;/a&gt; and &lt;a href=&quot;#startup&quot;&gt;startup founder&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;h4&gt;Product Manager&lt;/h4&gt;
 

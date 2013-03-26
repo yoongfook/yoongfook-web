@@ -2,7 +2,7 @@
 layout: page
 title: About Yoongfook
 ---
-I am am an experienced [product manager](#prod), [ruby on rails programmer](#dev), [front-end designer](#design) and [startup founder](#startup)
+> I am am an experienced [product manager](#prod), [ruby on rails programmer](#dev), [front-end designer](#design) and [startup founder](#startup)
 
 ####Product Manager
 I am currently a [Lean Product Manager](http://pollenizer.com/what-is-a-lean-product-manager) at [Pollenizer](http://pollenizer.com), one of the top startup incubator in Australia. This role has a good overlap between customer development and product management. We use [lean startup](http://theleanstartup.com/) principles - running experiments, measuring results, hacking growth, [agile dev](http://en.wikipedia.org/wiki/Agile_software_development) and quick iterations.
