@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: My List of Useful Ruby Gems
-categories: featured, rails
+category: featured
 tags: rails
 ---
 > Useful list of Ruby gems that I frequently use in web development projects.
