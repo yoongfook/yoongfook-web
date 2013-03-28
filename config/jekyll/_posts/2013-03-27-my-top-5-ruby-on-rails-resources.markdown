@@ -2,8 +2,7 @@
 layout: post
 published: true
 title: My top 5 Ruby on Rails resources
-category: featured
-tags: rails
+tags: web development
 ---
 I first started coding in Ruby in 2011 and I've felt in love with it ever since- mainly because of the community and support behind it. Listed below are the top 5 resources I used the most while I was learning this beautiful programming language.  
 

@@ -4,12 +4,35 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2013-03-28T01:31:31+11:00</updated>
+ <updated>2013-03-28T22:18:53+11:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
  </author>
 
+ 
+ <entry>
+   <title>My favourite front-end development resources</title>
+   <link href="YOUR_URL/my-favourite-front-end-development-resources.html"/>
+   <updated>2013-03-28T00:00:00+11:00</updated>
+   <id>BLOG_URL/my-favourite-front-end-development-resources</id>
+   <content type="html">&lt;p&gt;These resources helped me speed things up when it comes to front end development. There are a lot of free stuff out there. Learn how to use them and please don't re-invent the wheel.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://twitter.github.com/bootstrap/&quot;&gt;Twitter Bootstrap&lt;/a&gt;&lt;br/&gt;
+One of the most popular and best css framework ever.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Zurb Foundation&lt;/a&gt;&lt;br/&gt;
+A really good css framework too! Has less out-of-the-box functionality compared to Twitter Bootstrap, but it is more designer-friendly and the UI elements look less generic.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://typekit.com/&quot;&gt;Typekit&lt;/a&gt;&lt;br/&gt;
+CDN hosted fonts by Adobe. Just include the kit (few lines of js) in your website, and you can use the fonts without defining font-face tags in your css.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://daneden.me/animate/&quot;&gt;Animate.css&lt;/a&gt;&lt;br/&gt;
+Plug-and-play css animations. Fade,flip,bounce,rotate your DOM elements.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://garlicjs.org/&quot;&gt;Garlic.js&lt;/a&gt;&lt;br/&gt;
+Persist form data locally until the form's submitted so that your user dont lose their data if they accidentally close their browser.&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>My top 5 Ruby on Rails resources</title>
