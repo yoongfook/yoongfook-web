@@ -3,7 +3,6 @@ layout: post
 published: true
 title: My favourite front-end development resources
 tags: web development
-category: featured
 ---
 These resources helped me speed things up when it comes to front end development. There are a lot of free stuff out there. Learn how to use them and please don't re-invent the wheel.  
 
