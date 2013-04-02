@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: My favourite Sublime Text 2 features
-category: featured
 ---
 Sublime Text 2 had been my favourite text editor after switching over from Coda. It offers a better feature set when it comes to writing code. These are my favourite features in Sublime Text 2.  
 

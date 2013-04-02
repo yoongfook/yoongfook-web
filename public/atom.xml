@@ -4,12 +4,42 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2013-03-30T23:57:12+11:00</updated>
+ <updated>2013-04-03T07:55:10+11:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
  </author>
 
+ 
+ <entry>
+   <title>Handy tools for Ruby development</title>
+   <link href="YOUR_URL/handy-tools-for-ruby-on-rails-development.html"/>
+   <updated>2013-04-02T00:00:00+11:00</updated>
+   <id>BLOG_URL/handy-tools-for-ruby-on-rails-development</id>
+   <content type="html">&lt;p&gt;These tools will help you hit the ground running.&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;1. Set up Ruby environment -&lt;/strong&gt; &lt;a href=&quot;http://http://railsinstaller.org/&quot;&gt;Railsinstaller&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;All the commonly used packages needed for a full Rails stack on your Mac OSX. Just download and install. For OSX and also PC.&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;2. Make installing packages easy -&lt;/strong&gt; &lt;a href=&quot;http://mxcl.github.com/homebrew/&quot;&gt;Homebrew&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The missing OSX package installer. You can use this to easily install mysql/postgresql. To install Homebrew, paste the following into your OSX terminal.
+&lt;code&gt;ruby -e &quot;$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)&quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;3. Get a local database server -&lt;/strong&gt; &lt;a href=&quot;http://www.mysql.com/&quot;&gt;MySQL/PostgreSQL&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Local database for your rails app. After installing homebrew, install either one of the databases by typing this into your OSX terminal: &lt;code&gt;brew install mysql&lt;/code&gt; or &lt;code&gt;brew install postgresql&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;4. Database management with a GUI -&lt;/strong&gt; &lt;a href=&quot;http://www.sequelpro.com/&quot;&gt;Sequel Pro&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;MySQL database management tool for those of you who prefer a GUI. Need a tool for PostgreSQL? Try &lt;a href=&quot;http://inductionapp.com/&quot;&gt;Induction&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;5. Git source control with a GUI -&lt;/strong&gt; &lt;a href=&quot;http://www.git-tower.com/&quot;&gt;Tower&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Git client for Mac, for those of you who prefer a GUI.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>My favourite Sublime Text 2 features</title>
