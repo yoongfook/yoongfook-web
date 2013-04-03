@@ -4,12 +4,37 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2013-04-03T07:55:10+11:00</updated>
+ <updated>2013-04-04T08:04:09+11:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
  </author>
 
+ 
+ <entry>
+   <title>Top 5 SaaS tools</title>
+   <link href="YOUR_URL/top-5-saas-tools.html"/>
+   <updated>2013-04-04T00:00:00+11:00</updated>
+   <id>BLOG_URL/top-5-saas-tools</id>
+   <content type="html">&lt;p&gt;Here are the top 5 SaaS tools I am a big fan of.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://trello.com&quot;&gt;Trello&lt;/a&gt;&lt;br/&gt;
+Trello is our command centre. We use it as our todo list and also our &lt;a href=&quot;http://www.kanbanblog.com/explained/&quot;&gt;Kanban&lt;/a&gt; board. One feature I like about Trello is that all tasks are visible on a single page. This gives a good overview of what other people are working on and how the whole project is going. Install the &lt;a href=&quot;https://www.google.com.au/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;ved=0CDIQFjAA&amp;amp;url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fscrum-for-trello%2Fjdbcdblgjdpmfninkoogcfpnkjmndgje%3Fhl%3Den&amp;amp;ei=CpFcUcDeFemZiAeV4oG4Dw&amp;amp;usg=AFQjCNFiYpNp5LLuwuVjhyMCv9hSVeGCuA&amp;amp;sig2=GqJPO5RmR9gGupP8phqlKA&amp;amp;bvm=bv.44697112,d.aGc&quot;&gt;Scrum for Trello&lt;/a&gt; plugin to give Trello the ability to have story points.&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/HSqxBXN.png&quot; alt=&quot;Trello&quot; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt;&lt;br/&gt;
+We use Github to manage our code repositories. The UI makes it really easy to check contents for various commits from group members. Good place to check out some Opensource repos to fork too.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://kissmetrics.com&quot;&gt;KISSmetrics&lt;/a&gt;&lt;br/&gt;
+It is important to measure customer behaviour- what your users are actually doing at your site, and KISSmetrics allow you to do just that. It allows goal-oriented tracking where you push data to their API every time a user does some action on your site. They have nice reports so you can get some actionable insights instead of an information overload. Their extensive documentation and JS library is usually good enough but if you want a gem for your Rails app, I recommend &lt;code&gt;gem event_tracker&lt;/code&gt; which can be found &lt;a href=&quot;http://www.doorkeeperhq.com/developer/event-tracker-mixpanel-kissmetrics&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://mailchimp.com&quot;&gt;Mailchimp&lt;/a&gt;&lt;br/&gt;
+So, how do you engage users and get them to come back to your site more often? You run personalised email campaigns. Mailchimp is the best tool for running email campaigns. Ever. They have easy-to-use mergetags for personalisation, and beautiful mobile-responsive templates. For a deeper integration with your Rails app, consider using the &lt;a href=&quot;https://github.com/mailchimp/mailchimp-gem&quot;&gt;mailchimp gem&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.streak.com/&quot;&gt;Streak&lt;/a&gt;&lt;br/&gt;
+If you handle the majority of your sales process via email, Streak is the tool for you. It allows you to create 'pipelines' for various stages of your sales process. Email conversations with your customers are stored in a 'box' for easy reference and follow up.&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/wzhMvqT.png&quot; alt=&quot;Streak&quot; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Handy tools for Ruby development</title>

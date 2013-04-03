@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: Handy tools for Ruby development
-category: featured
 ---
 These tools will help you hit the ground running.  
 
