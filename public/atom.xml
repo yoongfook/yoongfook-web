@@ -4,12 +4,67 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2013-04-04T08:04:09+11:00</updated>
+ <updated>2013-04-10T09:10:06+10:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
  </author>
 
+ 
+ <entry>
+   <title>Resume</title>
+   <link href="YOUR_URL/resume.html"/>
+   <updated>2013-04-10T00:00:00+10:00</updated>
+   <id>BLOG_URL/resume</id>
+   <content type="html">&lt;p&gt;I am a Ruby on Rails developer in Sydney, Australia. My most recent experience has been as a product manager at &lt;a href=&quot;http://pollenizer.com&quot;&gt;Pollenizer&lt;/a&gt;, one of the top tech incubator in Australia and a technical co-founder at &lt;a href=&quot;http://hastify.com&quot;&gt;Hastify&lt;/a&gt;, one of the first online food ordering platform in Singapore.&lt;/p&gt;
+
+&lt;p&gt;I have 3 years of combined experience in web development and 1 year of commercial Ruby on Rails experience.&lt;/p&gt;
+
+&lt;h3&gt;Professional Experience&lt;/h3&gt;
+
+&lt;h4&gt;&lt;em&gt;Product Manager - Pollenizer Pty Ltd, Feb 2013 - Present&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Pollenizer is one of the top tech incubators in Australia. I was contracted to one of their portfolio companies &lt;a href=&quot;http://pygg.co&quot;&gt;Pygg&lt;/a&gt; where I am responsible for the development of a cashless payment platform for public schools in Australia. Worked in a small agile team of myself + 1 other engineer, so I am writing code all the time.&lt;/p&gt;
+
+&lt;p&gt;In under two weeks, I did a complete re-write of erb templates, sass stylesheets, and some app models which eliminated the front-end technical debt accrued over years of development. This resulted in shorter development cycles, faster pageload speeds, and engineer happiness.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Worked extensively with:&lt;/code&gt; Ruby on Rails 3.2, MySQL, Zurb Foundation 4, SASS mixins, jQuery.&lt;/p&gt;
+
+&lt;h4&gt;&lt;em&gt;Freelance Web Consultant - Yoongfook Studios, May 2012 - Present&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Worked on multiple Ruby and consulting work for clients to pay off bills while running my own startup.&lt;/p&gt;
+
+&lt;p&gt;Responsible for the whole development pipeline- client consultation, wireframing, PSD mockup, front-end(html/sass/twitter bootstrap), Ruby(Rails)/PostgreSQL backend, and deployment to cloud servers for both &lt;a href=&quot;http://singaporetender.com&quot;&gt;SingaporeTender&lt;/a&gt; and &lt;a href=&quot;http://getloadup.com&quot;&gt;Loadup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Worked extensively with:&lt;/code&gt; Ruby on Rails 3.2, PostgreSQL, Twitter Bootstrap, Heroku, AWS S3, Amazon Cloudfront.&lt;/p&gt;
+
+&lt;h4&gt;&lt;em&gt;Technical Co-Founder - Hastify Pte Ltd, September 2011 - November 2012&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Director and technical co-founder of a online food ordering startup. &lt;a href=&quot;http://hastify.com&quot;&gt;Hastify&lt;/a&gt; provides an online-ordering option for restaurants across Singapore. We generate leads and deliver orders to them through a custom-designed receipt printer that sits in the restaurant's kitchen.&lt;/p&gt;
+
+&lt;p&gt;Responsible for the whole development pipeline- front-end(html/css/zurb-foundation), back-end(PHP, Mysql) and deployment to cloud servers (RedHat Openshift)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Worked extensively with:&lt;/code&gt; HTML5,CSS3, AngularJS, Object-oriented PHP(Yii Framework), Mysql, Zurb Foundation 3, Openshift Cloud&lt;/p&gt;
+
+&lt;h3&gt;Technology Focus&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Programming Languages:&lt;/code&gt; Ruby, JavaScript, SQL, HTML/HAML, CSS/SASS&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Web Frameworks:&lt;/code&gt; Ruby on Rails, Yii(I know it but I hate PHP)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Front-end Web Frameworks:&lt;/code&gt; Angular.js(Learning), jQuery, jQuery UI&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CSS Frameworks/Tools:&lt;/code&gt; Twitter Bootstrap, Zurb Foundation, Compass&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Programming Editors:&lt;/code&gt; Sublime Text 2&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Source Code Control:&lt;/code&gt; Git&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Databases:&lt;/code&gt; PostgreSQL 8/9, MySQL 4/5, MongoDB(Learning)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Content Management Systems/E-commerce:&lt;/code&gt; RefineryCMS, Wordpress&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Deployment/Servers:&lt;/code&gt; Heroku, Openshift&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Metrics/Tracking:&lt;/code&gt; Mixpanel, KISSMetrics, GA&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Wireframing/Design:&lt;/code&gt; LucidCharts, Mockingbird, Omnigraffle, Adobe PS, AI&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Rubygems extensively used: &lt;code&gt;devise&lt;/code&gt;, &lt;code&gt;cancan&lt;/code&gt;, &lt;code&gt;simple_form&lt;/code&gt;, &lt;code&gt;carrierwave&lt;/code&gt;, &lt;code&gt;asset_sync&lt;/code&gt;, &lt;code&gt;fog&lt;/code&gt;, &lt;code&gt;delayed_job&lt;/code&gt;, &lt;code&gt;compass-rails&lt;/code&gt;, &lt;code&gt;zurb-foundation&lt;/code&gt;, &lt;code&gt;twitter-bootstrap&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Top 5 SaaS tools</title>

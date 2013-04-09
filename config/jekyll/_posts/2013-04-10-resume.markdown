@@ -1,0 +1,45 @@
+---
+layout: page
+published: true
+title: Resume
+---
+I am a Ruby on Rails developer in Sydney, Australia. My most recent experience has been as a product manager at [Pollenizer](http://pollenizer.com), one of the top tech incubator in Australia and a technical co-founder at [Hastify](http://hastify.com), one of the first online food ordering platform in Singapore.
+
+I have 3 years of combined experience in web development and 1 year of commercial Ruby on Rails experience.
+
+###Professional Experience
+####_Product Manager - Pollenizer Pty Ltd, Feb 2013 - Present_
+Pollenizer is one of the top tech incubators in Australia. I was contracted to one of their portfolio companies [Pygg](http://pygg.co) where I am responsible for the development of a cashless payment platform for public schools in Australia. Worked in a small agile team of myself + 1 other engineer, so I am writing code all the time.
+
+In under two weeks, I did a complete re-write of erb templates, sass stylesheets, and some app models which eliminated the front-end technical debt accrued over years of development. This resulted in shorter development cycles, faster pageload speeds, and engineer happiness.  
+  
+`Worked extensively with:` Ruby on Rails 3.2, MySQL, Zurb Foundation 4, SASS mixins, jQuery.  
+  
+####_Freelance Web Consultant - Yoongfook Studios, May 2012 - Present_
+Worked on multiple Ruby and consulting work for clients to pay off bills while running my own startup.
+
+Responsible for the whole development pipeline- client consultation, wireframing, PSD mockup, front-end(html/sass/twitter bootstrap), Ruby(Rails)/PostgreSQL backend, and deployment to cloud servers for both [SingaporeTender](http://singaporetender.com) and [Loadup](http://getloadup.com)  
+  
+`Worked extensively with:` Ruby on Rails 3.2, PostgreSQL, Twitter Bootstrap, Heroku, AWS S3, Amazon Cloudfront.  
+  
+####_Technical Co-Founder - Hastify Pte Ltd, September 2011 - November 2012_
+Director and technical co-founder of a online food ordering startup. [Hastify](http://hastify.com) provides an online-ordering option for restaurants across Singapore. We generate leads and deliver orders to them through a custom-designed receipt printer that sits in the restaurant's kitchen.
+
+Responsible for the whole development pipeline- front-end(html/css/zurb-foundation), back-end(PHP, Mysql) and deployment to cloud servers (RedHat Openshift)  
+  
+`Worked extensively with:` HTML5,CSS3, AngularJS, Object-oriented PHP(Yii Framework), Mysql, Zurb Foundation 3, Openshift Cloud  
+  
+###Technology Focus
+- `Programming Languages:` Ruby, JavaScript, SQL, HTML/HAML, CSS/SASS
+- `Web Frameworks:` Ruby on Rails, Yii(I know it but I hate PHP)
+- `Front-end Web Frameworks:` Angular.js(Learning), jQuery, jQuery UI
+- `CSS Frameworks/Tools:` Twitter Bootstrap, Zurb Foundation, Compass
+- `Programming Editors:` Sublime Text 2
+- `Source Code Control:` Git
+- `Databases:` PostgreSQL 8/9, MySQL 4/5, MongoDB(Learning)
+- `Content Management Systems/E-commerce:` RefineryCMS, Wordpress
+- `Deployment/Servers:` Heroku, Openshift
+- `Metrics/Tracking:` Mixpanel, KISSMetrics, GA
+- `Wireframing/Design:` LucidCharts, Mockingbird, Omnigraffle, Adobe PS, AI  
+
+- Rubygems extensively used: `devise`, `cancan`, `simple_form`, `carrierwave`, `asset_sync`, `fog`, `delayed_job`, `compass-rails`, `zurb-foundation`, `twitter-bootstrap`
