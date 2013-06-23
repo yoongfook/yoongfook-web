@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>BLOG_NAME</title>
+ <link href="YOUR_URL/atom.xml" rel="self"/>
+ <link href="YOUR_URL"/>
+ <updated>2013-04-10T09:10:06+10:00</updated>
+ <id>BLOG_URL</id>
+ <author>
+   <name>BLOG_NAME</name>
+ </author>
+
+ 
+ <entry>
+   <title>Resume</title>
+   <link href="YOUR_URL/resume.html"/>
+   <updated>2013-04-10T00:00:00+10:00</updated>
+   <id>BLOG_URL/resume</id>
+   <content type="html">&lt;p&gt;I am a Ruby on Rails developer in Sydney, Australia. My most recent experience has been as a product manager at &lt;a href=&quot;http://pollenizer.com&quot;&gt;Pollenizer&lt;/a&gt;, one of the top tech incubator in Australia and a technical co-founder at &lt;a href=&quot;http://hastify.com&quot;&gt;Hastify&lt;/a&gt;, one of the first online food ordering platform in Singapore.&lt;/p&gt;
+
+&lt;p&gt;I have 3 years of combined experience in web development and 1 year of commercial Ruby on Rails experience.&lt;/p&gt;
+
+&lt;h3&gt;Professional Experience&lt;/h3&gt;
+
+&lt;h4&gt;&lt;em&gt;Product Manager - Pollenizer Pty Ltd, Feb 2013 - Present&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Pollenizer is one of the top tech incubators in Australia. I was contracted to one of their portfolio companies &lt;a href=&quot;http://pygg.co&quot;&gt;Pygg&lt;/a&gt; where I am responsible for the development of a cashless payment platform for public schools in Australia. Worked in a small agile team of myself + 1 other engineer, so I am writing code all the time.&lt;/p&gt;
+
+&lt;p&gt;In under two weeks, I did a complete re-write of erb templates, sass stylesheets, and some app models which eliminated the front-end technical debt accrued over years of development. This resulted in shorter development cycles, faster pageload speeds, and engineer happiness.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Worked extensively with:&lt;/code&gt; Ruby on Rails 3.2, MySQL, Zurb Foundation 4, SASS mixins, jQuery.&lt;/p&gt;
+
+&lt;h4&gt;&lt;em&gt;Freelance Web Consultant - Yoongfook Studios, May 2012 - Present&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Worked on multiple Ruby and consulting work for clients to pay off bills while running my own startup.&lt;/p&gt;
+
+&lt;p&gt;Responsible for the whole development pipeline- client consultation, wireframing, PSD mockup, front-end(html/sass/twitter bootstrap), Ruby(Rails)/PostgreSQL backend, and deployment to cloud servers for both &lt;a href=&quot;http://singaporetender.com&quot;&gt;SingaporeTender&lt;/a&gt; and &lt;a href=&quot;http://getloadup.com&quot;&gt;Loadup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Worked extensively with:&lt;/code&gt; Ruby on Rails 3.2, PostgreSQL, Twitter Bootstrap, Heroku, AWS S3, Amazon Cloudfront.&lt;/p&gt;
+
+&lt;h4&gt;&lt;em&gt;Technical Co-Founder - Hastify Pte Ltd, September 2011 - November 2012&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Director and technical co-founder of a online food ordering startup. &lt;a href=&quot;http://hastify.com&quot;&gt;Hastify&lt;/a&gt; provides an online-ordering option for restaurants across Singapore. We generate leads and deliver orders to them through a custom-designed receipt printer that sits in the restaurant's kitchen.&lt;/p&gt;
+
+&lt;p&gt;Responsible for the whole development pipeline- front-end(html/css/zurb-foundation), back-end(PHP, Mysql) and deployment to cloud servers (RedHat Openshift)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Worked extensively with:&lt;/code&gt; HTML5,CSS3, AngularJS, Object-oriented PHP(Yii Framework), Mysql, Zurb Foundation 3, Openshift Cloud&lt;/p&gt;
+
+&lt;h3&gt;Technology Focus&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Programming Languages:&lt;/code&gt; Ruby, JavaScript, SQL, HTML/HAML, CSS/SASS&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Web Frameworks:&lt;/code&gt; Ruby on Rails, Yii(I know it but I hate PHP)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Front-end Web Frameworks:&lt;/code&gt; Angular.js(Learning), jQuery, jQuery UI&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CSS Frameworks/Tools:&lt;/code&gt; Twitter Bootstrap, Zurb Foundation, Compass&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Programming Editors:&lt;/code&gt; Sublime Text 2&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Source Code Control:&lt;/code&gt; Git&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Databases:&lt;/code&gt; PostgreSQL 8/9, MySQL 4/5, MongoDB(Learning)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Content Management Systems/E-commerce:&lt;/code&gt; RefineryCMS, Wordpress&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Deployment/Servers:&lt;/code&gt; Heroku, Openshift&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Metrics/Tracking:&lt;/code&gt; Mixpanel, KISSMetrics, GA&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Wireframing/Design:&lt;/code&gt; LucidCharts, Mockingbird, Omnigraffle, Adobe PS, AI&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Rubygems extensively used: &lt;code&gt;devise&lt;/code&gt;, &lt;code&gt;cancan&lt;/code&gt;, &lt;code&gt;simple_form&lt;/code&gt;, &lt;code&gt;carrierwave&lt;/code&gt;, &lt;code&gt;asset_sync&lt;/code&gt;, &lt;code&gt;fog&lt;/code&gt;, &lt;code&gt;delayed_job&lt;/code&gt;, &lt;code&gt;compass-rails&lt;/code&gt;, &lt;code&gt;zurb-foundation&lt;/code&gt;, &lt;code&gt;twitter-bootstrap&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Top 5 SaaS tools</title>
+   <link href="YOUR_URL/top-5-saas-tools.html"/>
+   <updated>2013-04-04T00:00:00+11:00</updated>
+   <id>BLOG_URL/top-5-saas-tools</id>
+   <content type="html">&lt;p&gt;Here are the top 5 SaaS tools I am a big fan of.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://trello.com&quot;&gt;Trello&lt;/a&gt;&lt;br/&gt;
+Trello is our command centre. We use it as our todo list and also our &lt;a href=&quot;http://www.kanbanblog.com/explained/&quot;&gt;Kanban&lt;/a&gt; board. One feature I like about Trello is that all tasks are visible on a single page. This gives a good overview of what other people are working on and how the whole project is going. Install the &lt;a href=&quot;https://www.google.com.au/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;ved=0CDIQFjAA&amp;amp;url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fscrum-for-trello%2Fjdbcdblgjdpmfninkoogcfpnkjmndgje%3Fhl%3Den&amp;amp;ei=CpFcUcDeFemZiAeV4oG4Dw&amp;amp;usg=AFQjCNFiYpNp5LLuwuVjhyMCv9hSVeGCuA&amp;amp;sig2=GqJPO5RmR9gGupP8phqlKA&amp;amp;bvm=bv.44697112,d.aGc&quot;&gt;Scrum for Trello&lt;/a&gt; plugin to give Trello the ability to have story points.&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/HSqxBXN.png&quot; alt=&quot;Trello&quot; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt;&lt;br/&gt;
+We use Github to manage our code repositories. The UI makes it really easy to check contents for various commits from group members. Good place to check out some Opensource repos to fork too.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://kissmetrics.com&quot;&gt;KISSmetrics&lt;/a&gt;&lt;br/&gt;
+It is important to measure customer behaviour- what your users are actually doing at your site, and KISSmetrics allow you to do just that. It allows goal-oriented tracking where you push data to their API every time a user does some action on your site. They have nice reports so you can get some actionable insights instead of an information overload. Their extensive documentation and JS library is usually good enough but if you want a gem for your Rails app, I recommend &lt;code&gt;gem event_tracker&lt;/code&gt; which can be found &lt;a href=&quot;http://www.doorkeeperhq.com/developer/event-tracker-mixpanel-kissmetrics&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://mailchimp.com&quot;&gt;Mailchimp&lt;/a&gt;&lt;br/&gt;
+So, how do you engage users and get them to come back to your site more often? You run personalised email campaigns. Mailchimp is the best tool for running email campaigns. Ever. They have easy-to-use mergetags for personalisation, and beautiful mobile-responsive templates. For a deeper integration with your Rails app, consider using the &lt;a href=&quot;https://github.com/mailchimp/mailchimp-gem&quot;&gt;mailchimp gem&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.streak.com/&quot;&gt;Streak&lt;/a&gt;&lt;br/&gt;
+If you handle the majority of your sales process via email, Streak is the tool for you. It allows you to create 'pipelines' for various stages of your sales process. Email conversations with your customers are stored in a 'box' for easy reference and follow up.&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/wzhMvqT.png&quot; alt=&quot;Streak&quot; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Handy tools for Ruby development</title>
+   <link href="YOUR_URL/handy-tools-for-ruby-on-rails-development.html"/>
+   <updated>2013-04-02T00:00:00+11:00</updated>
+   <id>BLOG_URL/handy-tools-for-ruby-on-rails-development</id>
+   <content type="html">&lt;p&gt;These tools will help you hit the ground running.&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;1. Set up Ruby environment -&lt;/strong&gt; &lt;a href=&quot;http://http://railsinstaller.org/&quot;&gt;Railsinstaller&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;All the commonly used packages needed for a full Rails stack on your Mac OSX. Just download and install. For OSX and also PC.&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;2. Make installing packages easy -&lt;/strong&gt; &lt;a href=&quot;http://mxcl.github.com/homebrew/&quot;&gt;Homebrew&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The missing OSX package installer. You can use this to easily install mysql/postgresql. To install Homebrew, paste the following into your OSX terminal.
+&lt;code&gt;ruby -e &quot;$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)&quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;3. Get a local database server -&lt;/strong&gt; &lt;a href=&quot;http://www.mysql.com/&quot;&gt;MySQL/PostgreSQL&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Local database for your rails app. After installing homebrew, install either one of the databases by typing this into your OSX terminal: &lt;code&gt;brew install mysql&lt;/code&gt; or &lt;code&gt;brew install postgresql&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;4. Database management with a GUI -&lt;/strong&gt; &lt;a href=&quot;http://www.sequelpro.com/&quot;&gt;Sequel Pro&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;MySQL database management tool for those of you who prefer a GUI. Need a tool for PostgreSQL? Try &lt;a href=&quot;http://inductionapp.com/&quot;&gt;Induction&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5&gt;&lt;strong&gt;5. Git source control with a GUI -&lt;/strong&gt; &lt;a href=&quot;http://www.git-tower.com/&quot;&gt;Tower&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Git client for Mac, for those of you who prefer a GUI.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My favourite Sublime Text 2 features</title>
+   <link href="YOUR_URL/my-favourite-sublime-text-2-features.html"/>
+   <updated>2013-03-30T00:00:00+11:00</updated>
+   <id>BLOG_URL/my-favourite-sublime-text-2-features</id>
+   <content type="html">&lt;p&gt;Sublime Text 2 had been my favourite text editor after switching over from Coda. It offers a better feature set when it comes to writing code. These are my favourite features in Sublime Text 2.&lt;/p&gt;
+
+&lt;h4&gt;1. Go to anywhere&lt;/h4&gt;
+
+&lt;p&gt;Just hit &lt;code&gt;Cmd + P&lt;/code&gt; and to quickly switch between any files in your project directory. It is even smart enough to recognize snake case/camel case filenames.&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/6PMGAAR.png&quot; alt=&quot;Go to anywhere&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;2. Multiple selections&lt;/h4&gt;
+
+&lt;p&gt;How did we live before multiple selections? Just hold the &lt;code&gt;Cmd&lt;/code&gt; key and click on multiple areas in your code to edit several places at the same time. You can even hit &lt;code&gt;Cmd + D&lt;/code&gt; to look for similar occurences of a particular word and edit all of them at the same time&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/kuh42cX.png&quot; alt=&quot;Multiple selections&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;3. Split Editing&lt;/h4&gt;
+
+&lt;p&gt;Split screens into 2,3,4 smaller views by hitting &lt;code&gt;Alt + Cmd + 1,2,3&lt;/code&gt;&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/hd12LzA.png&quot; alt=&quot;Split Editing&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;4. Code Snippets&lt;/h4&gt;
+
+&lt;p&gt;You can create your own or download code snippets from the internet. When you type the abbreviation for the code and press &lt;code&gt;tab&lt;/code&gt;, you get a whole snippet of code immediately. Just type &lt;code&gt;if&lt;/code&gt; and press &lt;code&gt;tab&lt;/code&gt; to get a block of if..else statement, and much more.&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/LTNmXZd.png&quot; alt=&quot;Code Snippets&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;5. Indent Guides&lt;/h4&gt;
+
+&lt;p&gt;There are lines showing you the opening and closing html tags by default, which makes it really handy to spot unclosed tags.&lt;br/&gt;
+&lt;img src=&quot;http://i.imgur.com/LPpmJA7.jpg&quot; alt=&quot;Indent Guides&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My favourite front-end development resources</title>
+   <link href="YOUR_URL/my-favourite-front-end-development-resources.html"/>
+   <updated>2013-03-28T00:00:00+11:00</updated>
+   <id>BLOG_URL/my-favourite-front-end-development-resources</id>
+   <content type="html">&lt;p&gt;These resources helped me speed things up when it comes to front end development. There are a lot of free stuff out there. Learn how to use them and please don't re-invent the wheel.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://twitter.github.com/bootstrap/&quot;&gt;Twitter Bootstrap&lt;/a&gt;&lt;br/&gt;
+One of the most popular and best css framework ever.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Zurb Foundation&lt;/a&gt;&lt;br/&gt;
+A really good css framework too! Has less out-of-the-box functionality compared to Twitter Bootstrap, but it is more designer-friendly and the UI elements look less generic.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://typekit.com/&quot;&gt;Typekit&lt;/a&gt;&lt;br/&gt;
+CDN hosted fonts by Adobe. Just include the kit (few lines of js) in your website, and you can use the fonts without defining font-face tags in your css.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://daneden.me/animate/&quot;&gt;Animate.css&lt;/a&gt;&lt;br/&gt;
+Plug-and-play css animations. Fade,flip,bounce,rotate your DOM elements.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://garlicjs.org/&quot;&gt;Garlic.js&lt;/a&gt;&lt;br/&gt;
+Persist form data locally until the form's submitted so that your user dont lose their data if they accidentally close their browser.&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My top 5 Ruby on Rails resources</title>
+   <link href="YOUR_URL/my-top-5-ruby-on-rails-resources.html"/>
+   <updated>2013-03-27T00:00:00+11:00</updated>
+   <id>BLOG_URL/my-top-5-ruby-on-rails-resources</id>
+   <content type="html">&lt;p&gt;I first started coding in Ruby in 2011 and I've felt in love with it ever since- mainly because of the community and support behind it. Listed below are the top 5 resources I used the most while I was learning this beautiful programming language.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://ruby.railstutorial.org/ruby-on-rails-tutorial-book&quot;&gt;Ruby on Rails Tutorial by Michael Hartl&lt;/a&gt;&lt;br/&gt;
+This is THE book to pick up if you are just starting out with Ruby on Rails. It covers all the basics- What is MVC, setting up models, views and controllers, authentication systems, setting up databases, scaffolding and etc. I like how it starts you off with a test-driven development mindset as well.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://rubymonk.com&quot;&gt;Rubymonk&lt;/a&gt;&lt;br/&gt;
+What is the use of learning a framework like Rails if you dont have the right foundation which is the Ruby language? Rubymonk is here for that. They offer interactive Ruby tutorials in your browser. If you are a hands-on learner who likes to jump right into the code and have a crack at it- Rubymonk is for you.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://railscasts.com&quot;&gt;Railscasts&lt;/a&gt;&lt;br/&gt;
+This is by far my favourite and most-used resource. Ryan Bates (the man behind the website) records himself going through every one of the tutorials available on the site. He covers a broad range of topics for all levels of development skills. Here are some good ones: &lt;a href=&quot;http://railscasts.com/episodes/209-devise-revised&quot;&gt;Devise&lt;/a&gt;, &lt;a href=&quot;http://railscasts.com/episodes/253-carrierwave-file-uploads?view=asciicast&quot;&gt;Image Uploading&lt;/a&gt;, &lt;a href=&quot;http://railscasts.com/episodes/234-simple-form-revised?view=asciicast&quot;&gt;Simple Form&lt;/a&gt;, &lt;a href=&quot;http://railscasts.com/episodes/103-site-wide-announcements?autoplay=true&quot;&gt;Site-wide Announcements&lt;/a&gt;, and &lt;a href=&quot;http://railscasts.com/episodes/61-sending-email-revised?view=asciicast&quot;&gt;Sending Emails&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com&quot;&gt;StackOverflow&lt;/a&gt;&lt;br/&gt;
+Answers to all your Ruby questions lurk on StackOverflow. If you dont find the right answers, then you are not asking the right questions. (Try pasting in the error message- sometimes it works)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;Google&lt;/a&gt;&lt;br/&gt;
+Last but not least, Google should be your first point of question if you get stuck on something. Most often it will show you the related StackOverflow articles, but sometimes it may lead you to a beautifully written tutorial for the subject, or a meticulously crafted blogpost (like this!).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My list of useful Ruby Gems</title>
+   <link href="YOUR_URL/my-list-of-useful-ruby-gems.html"/>
+   <updated>2013-03-26T00:00:00+11:00</updated>
+   <id>BLOG_URL/my-list-of-useful-ruby-gems</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;Useful list of Ruby gems that I frequently use in web development projects.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;Front End Frameworks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/zurb/foundation&quot;&gt;Zurb Foundation&lt;/a&gt; - Uses SASS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/seyhunak/twitter-bootstrap-rails&quot;&gt;Twitter Bootstrap&lt;/a&gt; - Uses LESS&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Markup/Styling&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/haml/haml&quot;&gt;HAML&lt;/a&gt; - Prettify your HTML. Looks much cleaner than erb.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rails/sass-rails&quot;&gt;SASS&lt;/a&gt; - Avoid spaghetti CSS. Uses SASS today.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/bokmann/font-awesome-rails&quot;&gt;Font-Awesome&lt;/a&gt; - Icon-fonts&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Forms&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/plataformatec/simple_form&quot;&gt;Simple Form&lt;/a&gt; - Form generator: labels, error states, dropdowns, checkboxes, etc&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Error Reporting&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/charliesome/better_errors&quot;&gt;Better Errors&lt;/a&gt; - Meaningful error screens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dejan/rails_panel&quot;&gt;Rails Panel&lt;/a&gt; - Show Rails app requests in Chrome Dev Tool&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Authentication&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/plataformatec/devise&quot;&gt;Devise&lt;/a&gt; - THE authentication system for Rails&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Authorization&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/intridea/omniauth&quot;&gt;Omniauth&lt;/a&gt; - Login with Facebook, Twitter, g+ etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ryanb/cancan&quot;&gt;CanCan&lt;/a&gt; - Role-based Authorization (RBA) system that restricts what resources a given user is allowed to access&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;File/Image Upload&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jnicklas/carrierwave&quot;&gt;CarrierWave&lt;/a&gt; - Upload images/files from Rails application&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Asset Pipeline&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/fog/fog&quot;&gt;Fog&lt;/a&gt; - Upload images to cloud&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rumblelabs/asset_sync&quot;&gt;Asset Sync&lt;/a&gt; - Sync and serve assets from S3, Cloudfront etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Pagination&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/amatsuda/kaminari&quot;&gt;Kaminari&lt;/a&gt; - Easily create pagination when entries from db queries get too long.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Background Tasks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/collectiveidea/delayed_job&quot;&gt;Delayed Job&lt;/a&gt; - Execute longer tasks like emailing a long list of entries in the background.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Admin Panels&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gregbell/active_admin&quot;&gt;Active Admin&lt;/a&gt; - Instantly create an admin panel for your rails app.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sferik/rails_admin&quot;&gt;Rails Admin&lt;/a&gt; - Another great admin panel for managing your data&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Content Management System&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/refinery/refinerycms&quot;&gt;RefineryCMS&lt;/a&gt; - Popular Rails based CMS&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll is up and running</title>
+   <link href="YOUR_URL/jekyll-is-up-and-running.html"/>
+   <updated>2013-03-26T00:00:00+11:00</updated>
+   <id>BLOG_URL/jekyll-is-up-and-running</id>
+   <content type="html">&lt;p&gt;Finally got Jekyll up and running tonight. What is Jekyll you ask? Well, according to its &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github page&lt;/a&gt;, Jekyll is a simple, blog aware, static site generator. Thats what it does! It takes all the blogposts you write in markdown and generates a static site from them. You can drop the generated files into any web server and you will be able to serve those pages to your reader.&lt;/p&gt;
+
+&lt;p&gt;Jekyll is hacker-style blogging. Write your posts in a text editor in markdown, run &lt;code&gt;rake generate&lt;/code&gt;, commit your files, and push it to your site's servers. That's how you publish a Jekyll-powered blogpost. The posts are served in .html too, which makes the page load extremely fast!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Portfolio</title>
+   <link href="YOUR_URL/portfolio.html"/>
+   <updated>2013-03-25T00:00:00+11:00</updated>
+   <id>BLOG_URL/portfolio</id>
+   <content type="html">&lt;p&gt;This portfolio page is coming soon!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About Yoongfook</title>
+   <link href="YOUR_URL/about.html"/>
+   <updated>2013-03-25T00:00:00+11:00</updated>
+   <id>BLOG_URL/about</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;I am am an experienced &lt;a href=&quot;#prod&quot;&gt;product manager&lt;/a&gt;, &lt;a href=&quot;#dev&quot;&gt;ruby on rails programmer&lt;/a&gt;, &lt;a href=&quot;#design&quot;&gt;front-end designer&lt;/a&gt; and &lt;a href=&quot;#startup&quot;&gt;startup founder&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;Product Manager&lt;/h4&gt;
+
+&lt;p&gt;I am currently a &lt;a href=&quot;http://pollenizer.com/what-is-a-lean-product-manager&quot;&gt;Lean Product Manager&lt;/a&gt; at &lt;a href=&quot;http://pollenizer.com&quot;&gt;Pollenizer&lt;/a&gt;, one of the top startup incubator in Australia. This role has a good overlap between customer development and product management. We use &lt;a href=&quot;http://theleanstartup.com/&quot;&gt;lean startup&lt;/a&gt; principles - running experiments, measuring results, hacking growth, &lt;a href=&quot;http://en.wikipedia.org/wiki/Agile_software_development&quot;&gt;agile dev&lt;/a&gt; and quick iterations.&lt;/p&gt;
+
+&lt;h4&gt;Ruby on Rails Programmer&lt;/h4&gt;
+
+&lt;p&gt;I have been writing apps with Ruby on Rails since 2011 and started doing commercial freelancing work in 2012. The most recent project is &lt;a href=&quot;http://singaporetender.com&quot;&gt;Singapore Tender&lt;/a&gt; where I implemented a role-based authentication system (Devise, CanCan),  account activation system, nested model forms, image uploading (CarrierWave), daily email digests, paypal integration (ActiveMerchant),  object-based searching (Ransack), and email campaign integration (Gibbon).&lt;/p&gt;
+
+&lt;h4&gt;Front-end Designer&lt;/h4&gt;
+
+&lt;p&gt;I use the latest in CSS technology (&lt;a href=&quot;http://sass-lang.com&quot;&gt;SASS&lt;/a&gt; - mixins, variables, &lt;a href=&quot;http://twitter.github.com/bootstrap&quot;&gt;Twitter Bootstrap&lt;/a&gt;, &lt;a href=&quot;http://foundation.zurb.com&quot;&gt;Zurb Foundation&lt;/a&gt;), and popular Javascript frameworks (&lt;a href=&quot;http://jquery.com&quot;&gt;jQuery&lt;/a&gt;, &lt;a href=&quot;http://angularjs.org&quot;&gt;Angular JS&lt;/a&gt;) to create modern-looking websites at a fraction of the time needed. As the saying goes- don't re-invent the wheel.&lt;/p&gt;
+
+&lt;h4&gt;Startup Founder&lt;/h4&gt;
+
+&lt;p&gt;I started 3 businesses in Singapore before moving to Sydney. Tagloop - An online store for pre-programmed NFC stickers, Gspot - A platform for launching referral campaigns on Facebook, and &lt;a href=&quot;http://hastify.com&quot;&gt;Hastify&lt;/a&gt; - An online food delivery website. At Hastify, we managed to raise $50,000 from the Singaporean Government, and subsequently an angel round from one of the founders of &lt;a href=&quot;http://hungrygowhere.com&quot;&gt;Hungrygowhere&lt;/a&gt;, the Yelp of Singapore&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
